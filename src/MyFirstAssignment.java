@@ -5,8 +5,6 @@ public class MyFirstAssignment {
         System.out.println(" \\_/|_)     )");
         System.out.println("    \\  __  /");
         System.out.println("    (_/ (_/  ");
-
-
     }
 
 }
